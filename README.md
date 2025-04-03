@@ -14,3 +14,8 @@ touch (me sirve para crear archivos)
 man (obtener documentacion de cada comando)
 
 link de comandos  https://sanchezcorbalan.es/mejores-comandos-linux-bash/
+
+
+git status (para ver que tengo para guardar)
+git add . (para guardar los cambios)
+git commit -m "mensaje cortito"
